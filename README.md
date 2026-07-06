@@ -1,3 +1,3 @@
 Here are all my projects and their links:
 
--Music-Player: 
+-Music-Player: [Ouvrir le projet](./projets/music-player/)
