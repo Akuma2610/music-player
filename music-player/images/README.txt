@@ -1,1 +1,0 @@
-Replace with cover.jpg image.
